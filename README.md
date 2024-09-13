@@ -1,5 +1,5 @@
 # Minecraft Server
-## Part of https://lavadev.net/docs
+## Part of https://docs.lavadev.net
 - Made by Axiom & Mopifyz
 
 **Install using Lavadev Docs.**
